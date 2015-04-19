@@ -1,0 +1,32 @@
+{
+  "name": "haravan-node-api",
+  "version": "1.4.8",
+  "description": "OAuth2 Module for Haravan API",
+  "main": "./lib/haravan",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinechris/haravan-node-api.git"
+  },
+  "keywords": [
+    "Haravan",
+    "api",
+    "node.js",
+    "oauth2"
+  ],
+  "author": "Chris Gregory <chris@sinelabs.com> (http://sinelabs.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinechris/haravan-node-api/issues"
+  },
+  "homepage": "https://github.com/sinechris/haravan-node-api",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "chai": "^1.9.1",
+    "nock": "^0.34.1"
+  }
+}
