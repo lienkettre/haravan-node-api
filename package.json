@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/sinechris/haravan-node-api",
   "dependencies": {
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "mocha": "^1.20.1",
